@@ -1,4 +1,4 @@
-name: My Example Helix App
+name: Curated Chuck Norris facts
 description: Curated Chuck Norris facts
 assistants:
 - name: Chuck Norris API
