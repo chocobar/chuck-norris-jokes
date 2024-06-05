@@ -1,9 +1,9 @@
 name: My Example Helix App
-description: A selection of assistants to help me do stuff.
+description: Curated Chuck Norris facts
 assistants:
-- name: Bitcoin price API
+- name: Chuck Norris API
   apis:
-    - name: Coindesk API
-      description: Gets the current Bitcoin price in USD, GPB and EUR.
-      url: https://api.coindesk.com/v1
-      schema: ./openapi/coindesk.yaml
+    - name: Chuck Norris API
+      description: Curated Chuck Norris facts
+      url: https://api.chucknorris.io/
+      schema: ./openapi/chuck.yaml

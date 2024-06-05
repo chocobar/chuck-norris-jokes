@@ -1,2 +1,2 @@
-# example-app-api-template
-An example Helix App template for API tools
+# AI app for Curated Chuck Norris facts
+All things jokes and facts about Chuck Norris
